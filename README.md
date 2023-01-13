@@ -2,6 +2,10 @@
 
 > Nuxt 3 dokerized boilerplate
 
+## Powered by
+
+- [primevue ui kit](https://www.primefaces.org/primevue/)
+
 ## Setup
 
 ```bash

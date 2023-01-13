@@ -14,7 +14,10 @@
     "docker-prod-up": "docker-compose up --build"
   },
   "devDependencies": {
-    "nuxt": "3.0.0"
+    "nuxt": "3.0.0",
+    "primevue": "3.17.0",
+    "primeflex": "3.2.1",
+    "primeicons": "5.0.0"
   },
   "engines": {
     "node": "^18 || ^16",

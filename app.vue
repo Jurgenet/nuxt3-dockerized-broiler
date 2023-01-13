@@ -1,11 +1,9 @@
 <template>
-  <div>
-    <Greetings />
-  </div>
+
+<NuxtPage />
+
 </template>
 
 <script setup>
-
-import Greetings from '@/components/greetings.vue'
 
 </script>

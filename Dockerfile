@@ -11,6 +11,6 @@ RUN npm install yarn
 
 COPY ./package*.json /app
 
-RUN pwd && yarn && yarn cache clean
+RUN  yarn && yarn cache clean
 
 COPY . .

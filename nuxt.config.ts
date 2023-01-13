@@ -8,9 +8,6 @@ export default defineNuxtConfig({
       }
     },
   },
-  alias: {
-    '@': './',
-  },
   app: {
     head: {
       title: 'Element Plus + Nuxt 3',

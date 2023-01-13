@@ -15,9 +15,11 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0",
-    "primevue": "3.17.0",
     "primeflex": "3.2.1",
-    "primeicons": "5.0.0"
+    "primeicons": "5.0.0",
+    "primevue": "3.17.0",
+    "sass": "^1.57.1",
+    "sass-loader": "^13.2.0"
   },
   "engines": {
     "node": "^18 || ^16",

@@ -10,7 +10,8 @@ services:
     container_name: nuxt-dev
     command: yarn dev
     volumes:
-      - ./pages:/app/pages/
       - ./assets:/app/assets/
+      - ./pages:/app/pages/
+      - ./components:/app/components/
     ports:
       - '3000:3000'
